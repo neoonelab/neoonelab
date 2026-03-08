@@ -2,7 +2,7 @@
 
 # Exploring Game Tools for Roblox and Beyond
 
-For Roblox creators, **RobloxKit** offers helpful tools to build and manage games more easily:
+For Roblox players, **RobloxKit** offers helpful tools to manage games more easily:
 https://robloxkit.com
 
 Players of **The Forge** can plan resources more efficiently with **The Forge Calculator**, making strategy decisions quicker and clearer:
